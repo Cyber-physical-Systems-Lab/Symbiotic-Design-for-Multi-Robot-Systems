@@ -61,3 +61,6 @@ Example Outputs:
   <img src="Screenshot 2025-04-25 120935 (1).png" width="400"><br>
   <em>Figure 3: Learning curve</em>
 </p>
+
+# License
+This project is for academic and research purposes. For licensing inquiries, please contact the author.
