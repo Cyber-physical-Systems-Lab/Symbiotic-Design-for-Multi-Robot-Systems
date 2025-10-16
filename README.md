@@ -5,7 +5,7 @@ This repository contains the implementation for my Master’s thesis, “Symbiot
 
 # Overview
 
-The goal of this project is to explore symbiotic task allocation between two types of delivery robots — small and large — operating in a shared grid environment.
+The goal of this project is to explore symbiotic task allocation between two types of delivery robots(small and large) operating in a shared grid environment.
 By applying Actor-Critic and Proximal Policy Optimization (PPO) methods, the study investigates how mutualism-inspired cooperation can improve efficiency, reduce collisions, and optimize delivery times.
 
 ---
