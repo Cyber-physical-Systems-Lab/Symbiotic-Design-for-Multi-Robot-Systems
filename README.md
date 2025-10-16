@@ -41,3 +41,8 @@ Example Outputs:
   <img src="Screenshot 2025-06-03 155738 (1).png" width="400"><br>
   <em>Figure 1: Grid environment with small and big robots, pickup/drop-off points, and shelf obstacles (yellow).</em>
 </p>
+<img width="627" height="154" alt="Screenshot 2025-06-04 115601 (1)" src="https://github.com/user-attachments/assets/1ae17f43-d818-4a86-ab5c-7b58350d55f0" />
+<p align="center">
+  <img src="Screenshot 2025-06-04 115601 (1).png" width="400"><br>
+  <em>Figure 2: Completion Time for all the robots</em>
+</p>
