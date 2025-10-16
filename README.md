@@ -26,10 +26,10 @@ Prerequisites
 
 # How to run
 Run the simulation:
+
 ```bash
 python delivery.py
-
----
+```
 
 # Output examples:
 Example Outputs:
