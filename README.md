@@ -23,3 +23,12 @@ Prerequisites
 - matplotlib
 - pandas
 - heapq
+
+# How to run
+Run the simulation:
+python delivery.py
+
+Output examples:
+Example Outputs:
+- Visualization of robots navigating a 10x10 grid, avoiding collisions, and completing delivery tasks.
+- Learning curves showing reward improvement and reduction in collisions over training episodes.
