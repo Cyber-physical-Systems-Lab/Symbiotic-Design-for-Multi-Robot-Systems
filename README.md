@@ -16,6 +16,16 @@ Key Features
 - Mutualism-based coordination and task-sharing
 - Visualization of robot movements and performance metrics
 
+# Repository Structure
+```bash
+├── Agent.py
+├── README.md
+├── delivery.py
+├── marl_actor_critic.py
+├── packageInfo.py
+├── time.py
+```
+
 # How to use
 Prerequisites
 - Python 3.8+
