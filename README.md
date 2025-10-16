@@ -37,4 +37,7 @@ Example Outputs:
 - Learning curves showing reward improvement and reduction in collisions over training episodes.
 
 <img width="715" height="699" alt="Screenshot 2025-06-03 155738 (1)" src="https://github.com/user-attachments/assets/fbce43b9-75c6-495f-bcd3-8d557ba57541" />
-*Figure 1: Grid environment with small and big robots, pickup/drop-off points, and shelf obstacles (yellow).*
+<p align="center">
+  <img src="Screenshot 2025-06-03 155738 (1).png" width="400"><br>
+  <em>Figure 1: Grid environment with small and big robots, pickup/drop-off points, and shelf obstacles (yellow).</em>
+</p>
