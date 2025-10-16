@@ -29,6 +29,8 @@ Run the simulation:
 ```bash
 python delivery.py
 
+---
+
 # Output examples:
 Example Outputs:
 - Visualization of robots navigating a 10x10 grid, avoiding collisions, and completing delivery tasks.
