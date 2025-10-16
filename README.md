@@ -46,3 +46,8 @@ Example Outputs:
   <img src="Screenshot 2025-06-04 115601 (1).png" width="400"><br>
   <em>Figure 2: Completion Time for all the robots</em>
 </p>
+<img width="1235" height="617" alt="Screenshot 2025-04-25 120935 (1)" src="https://github.com/user-attachments/assets/92ff0818-bbc6-4553-bafe-9579751fdc1f" />
+<p align="center">
+  <img src="Screenshot 2025-04-25 120935 (1).png" width="400"><br>
+  <em>Figure 3: Learning curve</em>
+</p>
